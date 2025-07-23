@@ -1,0 +1,1 @@
+public interface BillingRepository extends JpaRepository<Billing, Integer> {}
